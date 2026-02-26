@@ -22,7 +22,7 @@ doing my MSc in CS Data Science
 
 ### 💬 Languages
 
-<img src="https://img.shields.io/badge/C#-FFA500?style=for-the-badge&logo=c#&logoColor=white" /> <img src="https://img.shields.io/badge/C++-FFA500?style=for-the-badge&logo=c++&logoColor=white" /> <img src="https://img.shields.io/badge/Python-FFA500?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/PHP-FFA500?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/Java-FFA500?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-FFA500?style=for-the-badge&logo=javascript&logoColor=white" /> 
+<img src="https://img.shields.io/badge/C++-FFA500?style=for-the-badge&logo=c++&logoColor=white" /> <img src="https://img.shields.io/badge/Python-FFA500?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/PHP-FFA500?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/Java-FFA500?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-FFA500?style=for-the-badge&logo=javascript&logoColor=white" /> 
 
 ### 🧠 AI/ML
 
