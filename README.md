@@ -1,142 +1,59 @@
-# Maja Chlipała
+# Hi 👋, I'm Maja Chlipała
 
-```typescript
-const profile = {
-  name: "Maja Chlipała",
-  bio: "ICT enginner graduated from AGH UST Kraków | currently doing my masters at PK US Kraków",
-  currentWork: "doing my MSc in CS Data Science",
-  skills: [
-    "HTML5",
-    "Bootstrap",
-    "Node.js",
-    "MySQL",
-    "SQLite",
-    "PostgreSQL",
-    ".NET",
-    "Docker",
-    "AWS",
-    "Terraform",
-    "TensorFlow",
-    "PyTorch",
-    "Pandas",
-    "OpenCV",
-    "Scikit-Learn",
-    "NumPy",
-    "Hugging Face",
-    "Keras",
-    "Android",
-    "C#",
-    "C++",
-    "Python",
-    "PHP",
-    "Java",
-    "JavaScript"
-  ],
-}
-```
+**ICT enginner graduated from AGH UST Kraków | currently doing my masters at PK US Kraków**
 
 ## 🔭 I'm currently working on
 
 doing my MSc in CS Data Science
 
-## 👀 Visitor Count
-
-<!-- ⚠️ Important: Replace 'thecookedhan' with your actual GitHub username in the URL below -->
-<p align="center">
-  <img src="https://profile-counter.glitch.me/thecookedhan/count.svg" />
-  <br>Thank you for visiting my profile! Come back soon!
-</p>
-
-## 🏆 GitHub Trophies
-
-<!-- ⚠️ Important: Replace 'thecookedhan' with your actual GitHub username in the URL below -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thecookedhan&theme=onedark&column=7&margin-w=15&margin-h=15" />
-</p>
-
-## 📊 GitHub Stats
-
-<!-- ⚠️ Important: Replace 'thecookedhan' with your actual GitHub username in the URL below -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thecookedhan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
-
-## 🔝 Most Used Languages
-
-<!-- ⚠️ Important: Replace 'thecookedhan' with your actual GitHub username in the URL below -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecookedhan&layout=compact&langs_count=10&theme=dark"/>
-</div>
-
 ## 💻 Tech Stack
 
-```json
-{
-  "frontend": [
-    "HTML5",
-    "Bootstrap"
-  ],
-  "backend": [
-    "Node.js",
-    "MySQL",
-    "SQLite",
-    "PostgreSQL",
-    ".NET"
-  ],
-  "devops": [
-    "Docker",
-    "AWS",
-    "Terraform"
-  ],
-  "ai/ml": [
-    "TensorFlow",
-    "PyTorch",
-    "Pandas",
-    "OpenCV",
-    "Scikit-Learn",
-    "NumPy",
-    "Hugging Face",
-    "Keras"
-  ],
-  "mobile": [
-    "Android"
-  ],
-  "languages": [
-    "C#",
-    "C++",
-    "Python",
-    "PHP",
-    "Java",
-    "JavaScript"
-  ]
-}
-```
+### 🎨 Frontend
+
+<img src="https://img.shields.io/badge/HTML5-ff69b4?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-ff69b4?style=for-the-badge&logo=bootstrap&logoColor=white" /> 
+
+### ⚙️ Backend
+
+<img src="https://img.shields.io/badge/Node.js-4169e1?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4169e1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-4169e1?style=for-the-badge&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/.NET-4169e1?style=for-the-badge&logo=.net&logoColor=white" /> 
+
+### 🚀 DevOps
+
+<img src="https://img.shields.io/badge/Docker-9370db?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-9370db?style=for-the-badge&logo=aws&logoColor=white" /> <img src="https://img.shields.io/badge/Terraform-9370db?style=for-the-badge&logo=terraform&logoColor=white" /> 
+
+### 💬 Languages
+
+<img src="https://img.shields.io/badge/C#-FFA500?style=for-the-badge&logo=c#&logoColor=white" /> <img src="https://img.shields.io/badge/C++-FFA500?style=for-the-badge&logo=c++&logoColor=white" /> <img src="https://img.shields.io/badge/Python-FFA500?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/PHP-FFA500?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/Java-FFA500?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-FFA500?style=for-the-badge&logo=javascript&logoColor=white" /> 
+
+### 🧠 AI/ML
+
+<img src="https://img.shields.io/badge/TensorFlow-00CED1?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-00CED1?style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-00CED1?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCV-00CED1?style=for-the-badge&logo=opencv&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit-Learn-00CED1?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-00CED1?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Hugging Face-00CED1?style=for-the-badge&logo=hugging face&logoColor=white" /> <img src="https://img.shields.io/badge/Keras-00CED1?style=for-the-badge&logo=keras&logoColor=white" /> 
+
+### 📱 Mobile
+
+<img src="https://img.shields.io/badge/Android-3CB371?style=for-the-badge&logo=android&logoColor=white" /> 
 
 ## 🌐 Socials
 
-```javascript
-const socials = {
-  github: "thecookedhan",
-  discord: "one.ace",
-}
-```
+<div align="center">
 
-<div>
-<a href="https://github.com/thecookedhan"><img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="one.ace"><img src="https://img.shields.io/badge/discord-%23000000.svg?style=for-the-badge&logo=discord&logoColor=white" /></a> 
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/thecookedhan) 
+
 </div>
 
 ## 📫 How to reach me
 
-```javascript
-const contact = {
-  email: "maja.chlipala@student.pk.edu.pl",
-  phone: "please don't call me",
-}
-```
+<div align="left">
 
-```typescript
-// Thanks for visiting my profile!
-console.log("Let's connect and collaborate on exciting projects!");
+📧 **Email:** [maja.chlipala@student.pk.edu.pl](mailto:maja.chlipala@student.pk.edu.pl)
 
-process.exit(0); // Until next time 👋
-```
+📱 **Phone:** please don't call me
+
+</div>
+
+---
+⭐️ From [Maja Chlipała](https://github.com/thecookedhan)
+
+<!-- Profile views counter -->
+<div align="center">
+  <img src="https://profile-counter.glitch.me/thecookedhan/count.svg" alt="Visitor Count" />
+</div>
