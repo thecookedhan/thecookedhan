@@ -26,7 +26,7 @@ doing my MSc in CS Data Science
 
 ### 🧠 AI/ML
 
-<img src="https://img.shields.io/badge/TensorFlow-00CED1?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-00CED1?style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-00CED1?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCV-00CED1?style=for-the-badge&logo=opencv&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit-Learn-00CED1?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-00CED1?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Hugging Face-00CED1?style=for-the-badge&logo=hugging face&logoColor=white" /> <img src="https://img.shields.io/badge/Keras-00CED1?style=for-the-badge&logo=keras&logoColor=white" /> 
+<img src="https://img.shields.io/badge/TensorFlow-00CED1?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-00CED1?style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-00CED1?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCV-00CED1?style=for-the-badge&logo=opencv&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit-Learn-00CED1?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-00CED1?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Keras-00CED1?style=for-the-badge&logo=keras&logoColor=white" /> 
 
 ### 📱 Mobile
 
