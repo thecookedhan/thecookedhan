@@ -34,7 +34,7 @@ doing my MSc in CS Data Science
 
 ## 🌐 Socials
 
-<div align="center">
+<div align="left">
 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/thecookedhan) 
 
@@ -48,12 +48,4 @@ doing my MSc in CS Data Science
 
 📱 **Phone:** please don't call me
 
-</div>
-
----
-⭐️ From [Maja Chlipała](https://github.com/thecookedhan)
-
-<!-- Profile views counter -->
-<div align="center">
-  <img src="https://profile-counter.glitch.me/thecookedhan/count.svg" alt="Visitor Count" />
 </div>
