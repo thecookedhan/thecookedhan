@@ -1,4 +1,4 @@
-# Hi 👋, I'm Maja Chlipała
+# Hi 👋, I'm Peter
 
 **ICT enginner graduated from AGH UST Kraków | currently doing my masters at PK US Kraków**
 
