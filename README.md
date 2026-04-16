@@ -8,6 +8,7 @@ You can still find it on github to see more of my work tho: https://github.com/D
 ## 🔭 I'm currently working on
 
 doing my MSc in CS Data Science 
+
 exploring Figma <33 (check out my work here: https://www.figma.com/proto/q1cVPovPlufUAJX6wV1FPd/TFP---FocusFlow?node-id=133-1007&t=Kg0E7fBnr1ynAVcH-1)
 
 ## 💻 Tech Stack
