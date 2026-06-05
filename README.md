@@ -1,6 +1,6 @@
 # Hi 👋, I'm Peter
 
-**ICT enginner graduated from AGH UST Kraków | currently doing my masters at PK US Kraków**
+**ICT enginner graduated from AGH UST Kraków | currently doing my masters at PK UT Kraków**
 
 Please note that this is my backup account as the first one has been unfortunately deactivated :(
 You can still find it on github to see more of my work tho: https://github.com/DevStranger
